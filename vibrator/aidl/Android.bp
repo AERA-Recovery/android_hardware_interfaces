@@ -27,7 +27,7 @@ aidl_interface {
             enabled: true,
         },
         cpp: {
-            enabled: false,
+            enabled: true,
         },
         rust: {
             enabled: true,
